@@ -1,0 +1,4 @@
+*ubyte
+*.pdf
+data/
+__pycache__/
