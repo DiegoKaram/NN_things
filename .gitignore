@@ -2,3 +2,5 @@
 *.pdf
 data/
 __pycache__/
+Convolution+model+-+Step+by+Step+-+v2.py
+.ipynb_checkpoints/
